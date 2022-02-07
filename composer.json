@@ -1,0 +1,9 @@
+{
+    "name": "jpgraph/jpgraph",
+    "autoload": {
+        "psr-4": {
+            "Jpgraph\\Jpgraph\\": "src/"
+        }
+    },
+    "require": {}
+}
